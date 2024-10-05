@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhijith.
-- 👀 Interested in Python, Java and Arduino related Projects.
-- 🌱 I’m currently learning Java. 
-- 💞️ I’m looking to collaborate on Python projects.
+- 👀 Interested in Python, Java, C and Embedded Projects.
+- 🌱 I’m currently learning JavaScript. 
+- 💞️ I’m looking to collaborate on C and Embedded Projects projects.
 - 📫 I can be reached via abhijithkrishnag@gmail.com 
 
 <!---
